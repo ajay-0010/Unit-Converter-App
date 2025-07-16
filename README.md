@@ -48,21 +48,6 @@ STEP 5: RUN THE APPLICATION
 - Select your device and wait for the app to build and install.
 
 -------------------------------------------------
-PROJECT STRUCTURE (SUMMARY)
--------------------------------------------------
-Unit-Converter-App/
-├── app/
-│   └── src/
-│       └── main/
-│           ├── java/com/example/unitconverter/
-│           │   └── MainActivity.kt (Main logic and UI)
-│           └── res/ (Layouts, themes, icons, etc.)
-├── gradle/ (Gradle wrapper files)
-├── build.gradle.kts (Build configuration)
-├── settings.gradle.kts (Settings for project)
-├── .idea/, gradlew, gradlew.bat, etc.
-
--------------------------------------------------
 TROUBLESHOOTING COMMON ISSUES
 -------------------------------------------------
 ❌ Gradle Sync Failed?
